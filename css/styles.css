@@ -24,10 +24,10 @@ body {
 body {
   background: var(--bg);
   display: flex;
-  padding-top: 164px;
-  align-items: flex-start;
   justify-content: center;
+  align-items: center;
   color: #20293a;
+  padding: 0 20px;
   font-family: "Sora", Arial, Helvetica, sans-serif;
 }
 
